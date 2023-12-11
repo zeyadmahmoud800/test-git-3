@@ -5,7 +5,8 @@ class Home_Screen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Git'),
+        title: Text('Git-test'),
+        centerTitle: true,
       ),
     );
   }
